@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "krakenda",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
